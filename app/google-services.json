@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "823102352969",
+    "firebase_url": "https://inclassassignment-08.firebaseio.com",
+    "project_id": "inclassassignment-08",
+    "storage_bucket": "inclassassignment-08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823102352969:android:dc133aaf155c650b",
+        "android_client_info": {
+          "package_name": "rachelmiller.inclassassignment08_rachelm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823102352969-al4d83uj31umho66f3fhtqqvm3dprd04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2D9DXmneg21mLopmK1LOdOBLJ_12m-40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
