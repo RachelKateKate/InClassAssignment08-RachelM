@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="rachelmiller.inclassassignment08_rachelm.SecondActivity">
+
+    <EditText
+        android:id="@+id/planetName"
+        style="@style/EditTextFieldStyle"
+        android:hint="@string/planet" />
+
+    <EditText
+        android:id="@+id/distance"
+        style="@style/EditTextFieldStyle"
+        android:hint="@string/distance" />
+
+    <CheckBox
+        android:id="@+id/hasWater"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hasWater"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/addToFirebaseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="addToFirebase"
+        android:text="@string/addToFirebase"
+        android:textSize="18sp"
+        android:layout_gravity="center" />
+
+</LinearLayout>
+
+
